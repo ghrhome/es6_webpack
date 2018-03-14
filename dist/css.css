@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'MyFont';
+    src: url("./'/e6cf7c6ec7c2d6f670ae9d762604cb0b.woff2") format('woff2'),
+    url("./'/c8ddf1e5e5bf3682bc7bebf30f394148.woff") format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+.hello {
+    padding-left:86px;
+    font-family: 'MyFont';
+    color: red;
+    background-repeat: no-repeat;
+    background-position:center left;
+    background-image: url(7271aa3c4b42ec91b172e83a872b0558.png);
+}
